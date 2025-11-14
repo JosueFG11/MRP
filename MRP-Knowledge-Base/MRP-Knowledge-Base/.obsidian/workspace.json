@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "a019318bada4d911",
+    "type": "split",
+    "children": [
+      {
+        "id": "9738bca839a97964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a0d584601c68d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MRP-Knowledge-Base/Agents/MrP/AI-Security-Guidlines.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Security-Guidlines.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edc84125c4abf3f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1102cc888d1a881c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a17b37c641b1ae9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6964758bfb0ade7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ad00ee95b34e8b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ba2eeec9e23efd0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "809db4cb59d8550b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6e780573e19eaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "186b2e674467f5a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "77592f34789c3a24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39da03312ffeb133",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ec0672aed3babe27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "16a0d584601c68d3",
+  "lastOpenFiles": [
+    "MRP-Knowledge-Base/Agents/MrP/Persona.md.md",
+    "MRP-Knowledge-Base/Agents/MrP/AI-Security-Guidlines.md.md",
+    "MRP-Knowledge-Base/Library/Architecture/Pages.md.md",
+    "MRP-Knowledge-Base/Library/Architecture/Entities.md.md",
+    "MRP-Knowledge-Base/Config/AppConfig.md.md",
+    "MRP-Knowledge-Base/Templates/AtomTemplate.md.md",
+    "MRP-Knowledge-Base/lovable.config.md.md",
+    "MRP-Knowledge-Base/Library/Modalities/ACH.md.md",
+    "MRP-Knowledge-Base/Library/Modalities/ACH.md 1.md",
+    "MRP-Knowledge-Base/Library/Wounds/Abandonmnet.md.md",
+    "MRP-Knowledge-Base/Library/Wounds/Invisibilidad.md.md",
+    "MRP-Knowledge-Base/Library/Untitled.md",
+    "MRP-Knowledge-Base/Library/Untitled",
+    "MRP-Knowledge-Base/Agents/MrP",
+    "MRP-Knowledge-Base/Library/Resources/CreditEconomy.md.md",
+    "MRP-Knowledge-Base/Library/Modalities",
+    "MRP-Knowledge-Base/Library/Renewal",
+    "MRP-Knowledge-Base/Library/Awareness",
+    "MRP-Knowledge-Base/Library/Untitled 1.md",
+    "MRP-Knowledge-Base/Library/Reflection",
+    "MRP-Knowledge-Base/Library/Resources",
+    "MRP-Knowledge-Base/Library/Architecture",
+    "MRP-Knowledge-Base/lovable.config.md/Untitled.md",
+    "MRP-Knowledge-Base/lovable.config.md",
+    "MRP-Knowledge-Base/Library/Practice",
+    "MRP-Knowledge-Base/Library/Wisdom",
+    "MRP-Knowledge-Base/Inbox.md",
+    "MRP-Knowledge-Base/Library.md"
+  ]
+}
