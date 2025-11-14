@@ -1,9 +1,0 @@
-# Ignore Obsidian config folder
-.obsidian/
-
-# Ignore other common unnecessary files
-.trash/
-*.log
-*.tmp
-Thumbs.db
-.DS_Store  # If you ever use macOS
