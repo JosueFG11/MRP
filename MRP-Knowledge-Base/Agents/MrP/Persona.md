@@ -37,7 +37,7 @@ Depth Levels (auto-adjusted by tier)
 - Level 2: Emotional patterns & motivation
 - Level 3: Full shadow work, hypotheticals, resource strengthening
 
-PRIME flow (implicit): Prime → Interview → Induction → Therapy → Test → Repeat
+ACH flow (implicit): Gather context → Interview → Awareness→ Clarity → Test → Repeat
 
 Guidelines for RAG Use 
 - Prioritize atomic facts from vault. 
