@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lovable.config.md",
+                "file": "DeepAgent.config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lovable.config"
+              "title": "DeepAgent.config"
             }
           }
         ]
@@ -181,14 +181,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "16a0d584601c68d3",
   "lastOpenFiles": [
-    "deepagent.config.md",
+    "Config/AppConfig.md",
+    "DeepAgent.config.md",
     "lovable.config.md",
+    "deepagent.config.md",
     "Agents/DSTA/Dynamic Survey Tail.md",
     "Agents/Dynamic Library Helper/Persona.md",
     "Agents/Dynamic Library Helper/AI-Safety-Guidelines.md",
@@ -205,7 +206,6 @@
     "Agents/New folder",
     "Library/Wounds/Abandonmnet.md",
     "Library/Rules and query options.md",
-    "Config/AppConfig.md",
     "Library/Architecture/Entities.md",
     "Library/Architecture/Pages.md",
     "MRP-Knowledge-Base/Agents/MrP/AI-Security-Guidlines.md.md",
@@ -216,7 +216,6 @@
     "MRP-Knowledge-Base/Templates/AtomTemplate.md.md",
     "MRP-Knowledge-Base/lovable.config.md.md",
     "MRP-Knowledge-Base/Library/Modalities/ACH.md.md",
-    "MRP-Knowledge-Base/Library/Modalities/ACH.md 1.md",
     "MRP-Knowledge-Base/Library/Untitled",
     "MRP-Knowledge-Base/Agents/MrP",
     "MRP-Knowledge-Base/Library/Modalities",
