@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-advanced-uri",
   "obsidian-linter",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-git"
 ]
